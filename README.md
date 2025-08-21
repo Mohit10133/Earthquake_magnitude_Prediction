@@ -4,29 +4,29 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-orange.svg)](https://xgboost.readthedocs.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red.svg)](https://streamlit.io/)
 
-> 🎯 An advanced machine learning project that predicts earthquake magnitudes using seismic and geographical features, powered by XGBoost and presented through an interactive Streamlit web application.
+>  An advanced machine learning project that predicts earthquake magnitudes using seismic and geographical features, powered by XGBoost and presented through an interactive Streamlit web application.
 
 If you find this project useful, please consider giving it a ⭐ star. It helps make the project more visible and encourages continued development!
 
 ## 📁 Project Structure
 
-📊 `ML_PROJECT_FINAL.ipynb`
+ `ML_PROJECT_FINAL.ipynb`
 - Complete data analysis pipeline
 - Model development and training
 - Performance evaluation and visualization
 - Detailed documentation and insights
 
-🚀 `app.py`
+ `app.py`
 - Interactive Streamlit web application
 - Real-time earthquake magnitude predictions
 - User-friendly interface
 
-🤖 `earthquake_xgb_mag.pkl`
+ `earthquake_xgb_mag.pkl`
 - Trained XGBoost model
 - Optimized for accurate predictions
 - Ready for deployment
 
-📈 `Earthquake.csv`
+ `Earthquake.csv`
 - Rich dataset with seismic information
 - Historical earthquake records
 - Multiple geographical and technical features
@@ -93,11 +93,11 @@ streamlit run app.py
 
 | Category | Technologies |
 |----------|-------------|
-| 🐍 Core | Python 3.x |
-| 📊 Data Processing | Pandas, NumPy |
-| 🤖 Machine Learning | Scikit-learn, XGBoost |
-| 🌐 Web App | Streamlit |
-| 📈 Visualization | Matplotlib, Seaborn |
+|  Core | Python 3.x |
+|  Data Processing | Pandas, NumPy |
+|  Machine Learning | Scikit-learn, XGBoost |
+|  Web App | Streamlit |
+|  Visualization | Matplotlib, Seaborn |
 
 ## 👨‍💻 Author
 
@@ -109,7 +109,6 @@ Created with 💖 by [Mohit10133](https://github.com/Mohit10133)
 
 If you found this project helpful or interesting, please consider:
 - Giving it a star ⭐
-- Sharing it with others who might find it useful
 - Contributing to its improvement
 
-Your support helps maintain and improve this project! Thank you! 🙏
+Your support helps maintain and improve this project! Thank you! 
